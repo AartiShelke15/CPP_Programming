@@ -1,2 +1,2 @@
 # CPP_Programming
-Java programming assignments and classwork for logic building and programming practice.
+C++ programming assignments and classwork for logic building and programming practice.
